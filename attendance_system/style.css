@@ -1,0 +1,11 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+a {
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    transform: translateY(-2px);
+}
